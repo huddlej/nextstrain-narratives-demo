@@ -14,11 +14,13 @@ Africa experienced three distinct waves of SARS-CoV-2 including Beta, Alpha, and
 This is some useful information about phylodynamics.
 
 ```auspiceMainDisplayMarkdown
-# More information about phydynamics
+# More information about phylodynamics
 
 ## Disease transmission
 
 Some content.
+
+<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="Representation of an infectious disease process as sampled for phylogenetic analysis." />
 
 ## Phylogenetics
 
