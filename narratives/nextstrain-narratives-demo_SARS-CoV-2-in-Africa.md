@@ -8,3 +8,19 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 # [Circulation patterns in Africa](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=tree,map,frequencies&f_region=Africa&p=grid)
 
 Africa experienced three distinct waves of SARS-CoV-2 including Beta, Alpha, and Delta waves.
+
+# [Background on phylodynamics](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+This is some useful information about phylodynamics.
+
+```auspiceMainDisplayMarkdown
+# More information about phydynamics
+
+## Disease transmission
+
+Some content.
+
+## Phylogenetics
+
+Some more content.
+```
