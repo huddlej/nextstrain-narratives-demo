@@ -20,7 +20,7 @@ This is some useful information about phylodynamics.
 
 Some content.
 
-<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="Representation of an infectious disease process as sampled for phylogenetic analysis." />
+<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="Representation of an infectious disease process as sampled for phylogenetic analysis."  width="100%" />
 
 ## Phylogenetics
 
